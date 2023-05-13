@@ -46,7 +46,6 @@ showMore2.addEventListener("click", () => {
     },10);
 });
 
-
 isActive = true;
 svg2.style.display = "none";
 messagingSection.style.top = "95vh";
